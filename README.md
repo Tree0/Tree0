@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raajit    
 - 👀 I’m interested in Computer Science, Mathematics.
-- 🌱 I’m currently learning Data Structures , Algorithms, C++, Web Development using JavaScript. 
-- 💞️ I’m looking to collaborate on Web Development projects build on JavaScript.
+- 🌱 I’m currently learning Data Structures , Algorithms, Java Eco System, Web Development. 
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me 
 
 <!---
